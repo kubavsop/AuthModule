@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthModule.Server", "AuthModule.Server\AuthModule.Server.csproj", "{E53FDADE-907E-48F8-B0DD-7C9DA83B0E71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthModule.Shared", "AuthModule.Shared\AuthModule.Shared.csproj", "{3925A178-76E3-4C40-A17C-31D144664B16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthModule.Client", "AuthModule.Client\AuthModule.Client.csproj", "{F7CF9D32-EBEA-4260-A71E-42ED728D2E84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E53FDADE-907E-48F8-B0DD-7C9DA83B0E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53FDADE-907E-48F8-B0DD-7C9DA83B0E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E53FDADE-907E-48F8-B0DD-7C9DA83B0E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E53FDADE-907E-48F8-B0DD-7C9DA83B0E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3925A178-76E3-4C40-A17C-31D144664B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3925A178-76E3-4C40-A17C-31D144664B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3925A178-76E3-4C40-A17C-31D144664B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3925A178-76E3-4C40-A17C-31D144664B16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7CF9D32-EBEA-4260-A71E-42ED728D2E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7CF9D32-EBEA-4260-A71E-42ED728D2E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7CF9D32-EBEA-4260-A71E-42ED728D2E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7CF9D32-EBEA-4260-A71E-42ED728D2E84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
